@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailFinder", "MailFinder\MailFinder.csproj", "{EC798ECC-D843-4730-B19F-7A6D76CE19FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Debug|x86.ActiveCfg = Debug|x86
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Debug|x86.Build.0 = Debug|x86
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Release|x86.ActiveCfg = Release|x86
+		{EC798ECC-D843-4730-B19F-7A6D76CE19FC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44286D83-CADB-4595-A394-A2089BDD98AE}
+	EndGlobalSection
+EndGlobal
